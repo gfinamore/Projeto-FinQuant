@@ -1,4 +1,4 @@
-## Projeto final de Finanças Quantitativas - Minimização de Variância
+## Projeto Final de Finanças Quantitativas - Minimização de Variância
 <div align="center">
 
   *Participantes:*  

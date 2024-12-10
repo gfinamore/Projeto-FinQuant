@@ -9,7 +9,7 @@
 
 # Estratégia de investimento de longo prazo
 
-Quando abordamos risco em investimento, temos a ideia principal de que está ligada com a variância dos retornos - sobretudo os negativos. Nesse sentido, a ideia principal do nosso projeto é realizar uma minimização da variância do portfólio, para mitigar os riscos de um possível drawdown. Assim, rebalanceando os pesos a cada mês, é possível obter retornos consistentes para uma carteira de investimentos no longo prazo.
+Quando abordamos risco em investimento, geralmente pensamos que está ligado com a variância dos retornos - sobretudo os negativos. Nesse sentido, a ideia principal do nosso projeto é realizar uma minimização da variância do portfólio, para mitigar os riscos de um possível drawdown. Assim, rebalanceando os pesos a cada mês, é possível obter retornos consistentes para uma carteira de investimentos no longo prazo.
 
 ## Overview 🧐
 
